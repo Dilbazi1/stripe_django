@@ -1,3 +1,3 @@
-docker-compose up --build
-docker-compose run django python manage.py migrate
-docker-compose run django python manage.py createsuperuser
+1.docker-compose up --build
+2.docker-compose run django python manage.py migrate
+3.docker-compose run django python manage.py createsuperuser
